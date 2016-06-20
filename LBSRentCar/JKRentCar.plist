@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Phantom</string>
+		<key>picture</key>
+		<string>Phantom.jpg</string>
+		<key>price</key>
+		<string>100元/天</string>
+		<key>distance</key>
+		<string>10km</string>
+		<key>location</key>
+		<string>Paris</string>
+		<key>information</key>
+		<string>单号限行</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BRABUS</string>
+		<key>picture</key>
+		<string>BRABUS.jpg</string>
+		<key>price</key>
+		<string>200/天</string>
+		<key>distance</key>
+		<string>2km</string>
+		<key>location</key>
+		<string>NewYork</string>
+		<key>information</key>
+		<string>双号限行</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Panamera</string>
+		<key>picture</key>
+		<string>Panamera.jpg</string>
+		<key>price</key>
+		<string>300/天</string>
+		<key>distance</key>
+		<string>5km</string>
+		<key>location</key>
+		<string>BeiJing</string>
+		<key>information</key>
+		<string>70%接单</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LAGONDA</string>
+		<key>picture</key>
+		<string>LAGONDA.jpg</string>
+		<key>price</key>
+		<string>400/天</string>
+		<key>distance</key>
+		<string>4km</string>
+		<key>location</key>
+		<string>HK</string>
+		<key>information</key>
+		<string>秋季优惠九折</string>
+	</dict>
+</array>
+</plist>
